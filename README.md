@@ -41,7 +41,7 @@ I share my projects and daily journey in tech on Instagram ["@patzerdev"](https:
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
@@ -49,7 +49,7 @@ I share my projects and daily journey in tech on Instagram ["@patzerdev"](https:
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=patzer33&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=patzer33&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
 
 <img 

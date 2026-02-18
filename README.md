@@ -1,6 +1,6 @@
 ## Pedro Gabriel Patzer
 
-**`Desenvolvedor Back-End`**
+**`Back-End Developer`**
 
 My name is Pedro Gabriel, also known as obiel, born in Curitiba, Brazil, and passionate about technology and the impact it can have on our daily lives.
 

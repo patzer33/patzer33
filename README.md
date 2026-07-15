@@ -2,7 +2,7 @@
 
 **`Back-End Developer`**
 
-My name is Pedro Gabriel, also known as obiel, born in Curitiba, Brazil, and passionate about technology and the impact it can have on our daily lives.
+My name is Pedro Gabriel, also known as Patzer, born in Curitiba, Brazil, and passionate about technology and the impact it can have on our daily lives.
 
 I am currently attending high school integrated with a technical program in Systems Development, where I continue to improve my skills in programming and software development.
 

@@ -4,62 +4,66 @@
   </a>
 </div>
 
-### `Back-End & Game Dev` ツ
+### `Back-End & Game Dev`
 
 Hi! I'm **Pedro Gabriel**, also known as **Patzer**.
 
-I'm a Brazilian developer passionate about **technology, programming, software development and game development**.
+I'm a Brazilian developer passionate about **programming, software development and game development**.
 
-I'm currently attending **high school integrated with a technical program in Systems Development**, where I'm developing my programming skills and building projects to improve my experience.
+I'm currently attending **high school integrated with a technical program in Systems Development**, where I'm developing my programming skills and building projects to gain experience.
 
-I'm mainly interested in **Back-End Development** and **Game Development**, and I'm constantly exploring new technologies and tools.
+I'm mainly interested in **Back-End Development** and **Game Development**, and I enjoy learning new technologies by building things and experimenting with different tools.
 
 ### 🚀 Technologies
 
 <div align="left">
-  <img  
-  alt="C#"
-  title = "C#"
-  width = "30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg"
+  <img
+    alt="C#"
+    title="C#"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg"
   />
-  <img  
-  alt="Java"
-  title = "Java"
-  width = "30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"
+  <img
+    alt="Java"
+    title="Java"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"
   />
-  <img 
-  alt="Python"
-  title = "Python"
-  width = "30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg"
+  <img
+    alt="Python"
+    title="Python"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg"
   />
-  <img  
-  alt="Github"
-  title = "Github"
-  width = "30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-  />
-  <img  
-  alt="VScode"
-  title = "VScode"
-  width = "30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-  />
-    <img  
-  alt="InteliJ"
-  title = "InteliJ"
-  width = "30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
-  />
+</div>
 
+### 🛠️ Tools
+
+<div align="left">
+  <img
+    alt="GitHub"
+    title="GitHub"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+  />
+  <img
+    alt="VS Code"
+    title="VS Code"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+  />
+  <img
+    alt="IntelliJ"
+    title="IntelliJ"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
+  />
 </div>
 
 ### 🌐 Socials
@@ -80,7 +84,7 @@ I'm mainly interested in **Back-End Development** and **Game Development**, and 
 
 ### 📊 GitHub Statistics
 
-<div align="left">
+<div align="center">
   <img
     height="180"
     src="https://github-stats-extended-patzer33.vercel.app/api?username=patzer33&theme=tokyonight&layout=compact&langs_count=7"
@@ -101,10 +105,9 @@ I'm mainly interested in **Back-End Development** and **Game Development**, and 
 * 💜 C#
 * 🎮 Game Development
 * 🖥️ Back-End Development
-* 🧠 Software Development
 
-<picture align="center">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patzer33/patzer33/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patzer33/patzer33/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patzer33/patzer33/output/github-contribution-grid-snake.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/patzer33/patzer33/output/github-contribution-grid-snake.svg">
 </picture>

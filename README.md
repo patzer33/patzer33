@@ -1,62 +1,71 @@
-## Pedro Gabriel Patzer
+# Pedro Gabriel Patzer
 
-**`Back-End e Game Dev`**
+### `Back-End & Game Dev` ツ
 
-My name is Pedro Gabriel, also known as Patzer, born in Curitiba, Brazil, and passionate about technology and the impact it can have on our daily lives.
+Hi! I'm **Pedro Gabriel**, also known as **Patzer**.
 
-I am currently attending high school integrated with a technical program in Systems Development, where I continue to improve my skills in programming and software development.
+I'm a Brazilian developer passionate about **technology, programming, software development and game development**.
 
-I share my projects and daily journey in tech on Instagram ["@patzerdev"](https://www.instagram.com/patzerdev )
-, and on YouTube ["obiel ツ"](https://www.youtube.com/@obiel33)
- I talk about programming, technology, and other topics in a more open and personal way, sharing more about my journey.
+Currently, I'm attending **high school integrated with a technical program in Systems Development**, where I'm developing my programming skills and building projects to improve my experience.
 
-<div style="display: inline_block"><br>
-  <img 
-    align="left" 
-    alt="PYTHON"
-    title="PYTHON" 
-    width="95px" 
-    style="padding-right: 20px;" 
-    src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
-/>
-  <img 
-    align="left" 
-    alt="JAVA" 
-    title="JAVA"
-    width="80px" 
-    style="padding-right: 20px;" 
-    src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" 
-/>
+I'm mainly interested in **Back-End Development** and **Game Development**, and I'm constantly exploring new technologies and tools.
 
-  ##
- 
-<div> 
-  <a href="https://www.youtube.com/channel/UCxQSI3sxt242Y4qk0UixphA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/patzerdev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="844374553571622922" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/pedro-gabriel-patzer-do-nascimento-6087943b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+### 🚀 Technologies
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 </div>
 
-<br/>
-<br/>
+### 🌐 Socials
 
-### 📊 Statistics
+<div align="left">
+  <a href="https://www.youtube.com/@obiel33" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=patzer33&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
+  <a href="https://www.instagram.com/patzerdev" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+
+  <a href="https://discord.com/users/844374553571622922" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/pedro-gabriel-patzer-do-nascimento-6087943b1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
+### 📊 GitHub Statistics
+
+<div align="left">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=patzer33&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"
+    alt="GitHub Stats"
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=patzer33&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
-  />
+<img
+ height="180"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=patzer33&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=7"
+ alt="Top Languages"
+/>
 
-</p>
+</div>
+
+---
+
+### 🎮 Currently Learning
+
+* ☕ Java
+* 🐍 Python
+* 🎮 Game Development
+* 🖥️ Back-End Development
+* 🧠 Software Development
+
+### 📌 About Me
+
+I'm focused on building projects, learning through practice, and gradually expanding my knowledge in software and game development.
+
+My goal is to become a professional **Back-End Developer**, while also exploring **Game Development** as another area I'm passionate about.

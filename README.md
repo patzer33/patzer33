@@ -1,6 +1,6 @@
 ## Pedro Gabriel Patzer
 
-**`Back-End Developer`**
+**`Back-End e Game Dev`**
 
 My name is Pedro Gabriel, also known as Patzer, born in Curitiba, Brazil, and passionate about technology and the impact it can have on our daily lives.
 

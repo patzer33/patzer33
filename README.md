@@ -14,6 +14,8 @@ I'm currently attending **high school integrated with a technical program in Sys
 
 I'm mainly interested in **Back-End Development** and **Game Development**, and I enjoy learning new technologies by building things and experimenting with different tools.
 
+<img align="right" alt="" height="190px" src="./src/dev.gif">
+
 ### 🚀 Technologies
 
 <div align="left">
@@ -90,7 +92,6 @@ I'm mainly interested in **Back-End Development** and **Game Development**, and 
     src="https://github-stats-extended-patzer33.vercel.app/api?username=patzer33&theme=tokyonight&layout=compact&langs_count=7"
     alt="GitHub Stats"
   />
-
 <img
  height="180"
  src="https://github-stats-extended-patzer33.vercel.app/api/top-langs?username=patzer33&theme=tokyonight&layout=compact&langs_count=7"
